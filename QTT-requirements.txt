@@ -1,0 +1,10 @@
+qiskit
+numpy
+pandas
+QuantumCircuit
+Aer
+streamlit
+math
+tkinter
+PIL
+Image
