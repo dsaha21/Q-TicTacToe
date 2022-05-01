@@ -1,9 +1,9 @@
-qiskit
+qiskit==0.20.1
 numpy
 pandas
 QuantumCircuit
 Aer
-streamlit
+streamlit==1.8.1
 math
 tkinter
 PIL
