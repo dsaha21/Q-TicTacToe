@@ -229,9 +229,9 @@ def main():
         #********************************************************
          
         if moves==7:
-            if st.session_state.board[0,2]==psi: #for one time initialization-->1 time selection
+            if st.session_state.board[2,0]==psi: #for one time initialization-->1 time selection
                 
-                st.session_state.board[0,2]=getRandom()
+                st.session_state.board[2,0]=getRandom()
                 
                 userFlag=validate(st.session_state.board)
 
