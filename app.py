@@ -9,7 +9,7 @@
 """
  
 #from multiprocessing.spawn import import_main_pat
-from tkinter import Image
+#from tkinter import Image
 #from tkinter.tix import IMAGE
 from PIL import Image 
 import numpy as np
